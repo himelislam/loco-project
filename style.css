@@ -54,6 +54,17 @@ html, body{
     z-index: 7;
 }
 
+#nav{
+    position: absolute;
+    width: 100%;
+    padding: 30px 50px;
+    /* background-color: red; */
+}
+
+#nav svg path {
+    fill: #000000
+}
+
 #page1{
     height: 100vh;
     width: 100%;
