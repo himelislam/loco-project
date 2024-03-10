@@ -30,6 +30,6 @@ loading();
 
 
 const scroll = new LocomotiveScroll({
-    el: document.querySelector("#main"),
-    scroll: true
-})
+    el: document.querySelector('#main'),
+    smooth: true
+});
